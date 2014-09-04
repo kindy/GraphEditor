@@ -3,7 +3,13 @@ directed-graph-creator
 
 Interactive tool for creating directed graphs, created using d3.js.
 
-Demo: http://bl.ocks.org/cjrd/6863459
+Original code base is at https://github.com/metacademy/directed-graph-creator
+New features will be added:
+
+* Add label attributes for edges (done)
+* Add attributes of label and notes to node (TODO)
+* Display node content for specifid node attribute (TODO)
+* more...
 
 Operation:
 
@@ -18,7 +24,8 @@ Run:
 * `python -m SimpleHTTPServer 8000`
 * navigate to http://127.0.0.1:8000
 
-Github repo is at https://github.com/metacademy/directed-graph-creator
+Original github repo is at 
+
 
 License: MIT/X
 
